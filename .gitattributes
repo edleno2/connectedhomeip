@@ -1,3 +1,5 @@
+# run in linux so set eol to lf only
+* text eol=lf
 # Mark all files in generated folders as auto-generated to hide them in diffs
 **/gen/** linguist-generated
 # Same for files in zap-generated folders
